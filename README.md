@@ -74,7 +74,7 @@ Navega a [http://localhost:3000](http://localhost:3000) para ver la aplicación.
 
 ## 🏗️ Arquitectura del Proyecto
 
-Tu proyecto **NO sigue una arquitectura tradicional como MVC o MVVM**. En su lugar, utiliza una **arquitectura basada en componentes de React** con el patrón de **App Router de Next.js 13+**. Específicamente:
+El proyecto **NO sigue una arquitectura tradicional como MVC o MVVM**. En su lugar, utiliza una **arquitectura basada en componentes de React** con el patrón de **App Router de Next.js 13+**. Específicamente:
 
 ### 📁 **Arquitectura de Componentes React + Next.js App Router**
 
