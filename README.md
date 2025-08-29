@@ -4,6 +4,8 @@ Dashboard construido con Next.js 15, shadcn/ui y Tailwind CSS v4.
 Este proyecto presenta una interfaz de usuario completa con componentes reutilizables, gestión de temas y visualización de datos interactiva.
 
 ![Dashboard Preview]
+<img width="1246" height="976" alt="image" src="https://github.com/user-attachments/assets/4fa77f63-0de5-48fa-9af2-4eaa2d0537b2" />
+<img width="1256" height="969" alt="image" src="https://github.com/user-attachments/assets/e6e91e2e-5c20-499c-beaf-9d20c725e870" />
 
 
 ## ✨ Características
