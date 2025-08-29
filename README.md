@@ -1,4 +1,4 @@
-# 📊 ShadCN Dashboard
+# 📊 ShadCN Dashboard - Demo Template MBT
 
 Dashboard construido con Next.js 15, shadcn/ui y Tailwind CSS v4. 
 Este proyecto presenta una interfaz de usuario completa con componentes reutilizables, gestión de temas y visualización de datos interactiva.
